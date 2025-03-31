@@ -3,8 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace RestApi1.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("[controller]")]
     public class ValuesController : ControllerBase
     {
         [HttpGet(Name = "GetValues")]

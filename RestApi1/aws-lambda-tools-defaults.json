@@ -1,0 +1,21 @@
+
+{
+    "region" : "us-east-1",
+    "profile" : "root",
+    "configuration" : "Release",
+    "framework"     : "net8.0",
+    "function-name" : "RestApi",
+    "function-description" : "",
+    "package-type"         : "Zip",
+    "function-handler"     : "RestApi1",
+    "function-memory-size" : 512,
+    "function-role"        : "arn:aws:iam::219366068703:role/service-role/RestApi-role-c3ua6idi",
+    "function-timeout"     : 15,
+    "function-runtime"     : "dotnet8",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : ""
+}
