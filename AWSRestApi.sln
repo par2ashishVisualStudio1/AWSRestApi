@@ -5,8 +5,6 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi1", "RestApi1\RestApi1.csproj", "{1C7A9D3E-103D-4EF6-B931-9C4D5F64C743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi2", "RestApi2\RestApi2.csproj", "{26FAEEF7-C20D-484C-BE83-5AD0231C7672}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{1C7A9D3E-103D-4EF6-B931-9C4D5F64C743}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C7A9D3E-103D-4EF6-B931-9C4D5F64C743}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C7A9D3E-103D-4EF6-B931-9C4D5F64C743}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26FAEEF7-C20D-484C-BE83-5AD0231C7672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26FAEEF7-C20D-484C-BE83-5AD0231C7672}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26FAEEF7-C20D-484C-BE83-5AD0231C7672}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26FAEEF7-C20D-484C-BE83-5AD0231C7672}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
